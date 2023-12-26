@@ -44,3 +44,35 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamu08&show_icons=true&locale=en&layout=compact" alt="kamu08" />
 </p>
+
+<h1 align="center">Hi there 👋, I'm Kamal Sharma</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kamu08&label=Profile%20views&color=0e75b6&style=flat" alt="kamu08" /> </p>
+
+- 🌱 I’m currently learning **Reactjs and Nextjs**
+
+- 👨‍💻 Explore my projects at [https://kamal-sharma.netlify.app/](https://kamal-sharma.netlify.app/)
+
+- 💬 Ask me about **Frontend Development**
+
+- 📫 How to reach me: **kamal0sharma02@gmail.com**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamal-sharma-2a654a191/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/b0e8b7aa-6411-4802-bef4-520a7fb860f4" width="50" height="50" alt="HTML" title="HTML" style="transform: scale(1); transition: transform 0.3s ease-in-out;" />
+  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/9c15d07f-42de-432f-b052-b774f0e6fca2" width="50" height="50" alt="CSS" title="CSS" style="transform: scale(1); transition: transform 0.3s ease-in-out;" />
+  <!-- Add similar inline styles to each image -->
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamu08&show_icons=true&locale=en&layout=compact" alt="kamu08" />
+</p>
+
