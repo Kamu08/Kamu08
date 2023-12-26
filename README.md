@@ -32,9 +32,6 @@
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/23ded90d-61b5-4258-ac09-eb8d45165cae" width="50" height="50" alt="Visual Studio Code" title="Visual Studio Code" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/3f503ea8-3623-408a-b553-522abffd2e89" width="50" height="50" alt="SQL" title="SQL" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/8c5d6cf5-a70e-4fc6-8363-917eb66186c8" width="50" height="50" alt="Python" title="Python" />
-  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/65b4a76a-62e6-4aeb-a6ed-94312aa0056e" width="50" height="50" alt="Apache Spark" title="Apache Spark" />
-  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/57345a01-1482-41a3-9c18-4e27e22ad51b" width="50" height="50" alt="Apache Kafka" title="Apache Kafka" />
-  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/324d6e3f-43d6-4467-bdab-1e8f6e755b93" width="50" height="50" alt="SQL" title="SQL" />
 </p>
 
 <p align="center">
