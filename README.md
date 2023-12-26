@@ -76,3 +76,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamu08&show_icons=true&locale=en&layout=compact" alt="kamu08" />
 </p>
 
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+  <div class="tool-container">
+    <img src="https://github.com/Kamu08/Kamu08/assets/87929852/b0e8b7aa-6411-4802-bef4-520a7fb860f4" alt="HTML" title="HTML" />
+  </div>
+  <div class="tool-container">
+    <img src="https://github.com/Kamu08/Kamu08/assets/87929852/9c15d07f-42de-432f-b052-b774f0e6fca2" alt="CSS" title="CSS" />
+  </div>
+  <!-- Add similar containers for each image -->
+</div>
+
+<style>
+  .tool-container {
+    display: inline-block;
+    margin: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .tool-container:hover {
+    transform: scale(1.2);
+  }
+</style>
