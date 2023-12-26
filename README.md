@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Kamal Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and aspiring data engineer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamu08&label=Profile%20views&color=0e75b6&style=flat" alt="kamu08" /> </p>
 
-- 🌱 I’m currently learning **Reactjs and Nextjs**
+- 🌱 I’m currently learning **Reactjs, Nextjs, and Data Engineering**
 
 - 👨‍💻 Explore my projects at [https://kamal-sharma.netlify.app/](https://kamal-sharma.netlify.app/)
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend Development** and **Data Engineering**
 
 - 📫 How to reach me: **kamal0sharma02@gmail.com**
 
@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Skills:</h3>
 <p align="center">
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/b0e8b7aa-6411-4802-bef4-520a7fb860f4" width="50" height="50" alt="HTML" title="HTML" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/9c15d07f-42de-432f-b052-b774f0e6fca2" width="50" height="50" alt="CSS" title="CSS" />
@@ -32,6 +32,9 @@
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/23ded90d-61b5-4258-ac09-eb8d45165cae" width="50" height="50" alt="Visual Studio Code" title="Visual Studio Code" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/3f503ea8-3623-408a-b553-522abffd2e89" width="50" height="50" alt="SQL" title="SQL" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/8c5d6cf5-a70e-4fc6-8363-917eb66186c8" width="50" height="50" alt="Python" title="Python" />
+  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/65b4a76a-62e6-4aeb-a6ed-94312aa0056e" width="50" height="50" alt="Apache Spark" title="Apache Spark" />
+  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/57345a01-1482-41a3-9c18-4e27e22ad51b" width="50" height="50" alt="Apache Kafka" title="Apache Kafka" />
+  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/324d6e3f-43d6-4467-bdab-1e8f6e755b93" width="50" height="50" alt="SQL" title="SQL" />
 </p>
 
 <p align="center">
