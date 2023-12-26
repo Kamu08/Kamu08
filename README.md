@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kamu08&label=Profile%20views&color=0e75b6&style=flat" alt="kamu08" />
 </p>
 
-<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="200">
+<img align="top-right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="300">
 
 - 🌱 Currently immersing in **Reactjs, Nextjs, and the realm of Data Engineering**
 
