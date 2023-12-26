@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kamu08&label=Profile%20views&color=0e75b6&style=flat" alt="kamu08" /> </p>
 
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="300">
+
 - 🌱 I’m currently learning **Reactjs, Nextjs, and Data Engineering**
 
 - 👨‍💻 Explore my projects at [https://kamal-sharma.netlify.app/](https://kamal-sharma.netlify.app/)
@@ -32,36 +34,6 @@
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/23ded90d-61b5-4258-ac09-eb8d45165cae" width="50" height="50" alt="Visual Studio Code" title="Visual Studio Code" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/3f503ea8-3623-408a-b553-522abffd2e89" width="50" height="50" alt="SQL" title="SQL" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/8c5d6cf5-a70e-4fc6-8363-917eb66186c8" width="50" height="50" alt="Python" title="Python" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamu08&show_icons=true&locale=en&layout=compact" alt="kamu08" />
-</p>
-<h1 align="center">Hi there 👋, I'm Kamal Sharma</h1>
-<h3 align="center">A passionate frontend developer and aspiring data engineer from India</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kamu08&label=Profile%20views&color=0e75b6&style=flat" alt="kamu08" /> </p>
-
-<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="300">
-
-- 🌱 I’m currently learning **Reactjs, Nextjs, and Data Engineering**
-
-- 👨‍💻 Explore my projects at [https://kamal-sharma.netlify.app/](https://kamal-sharma.netlify.app/)
-
-- 💬 Ask me about **Frontend Development** and **Data Engineering**
-
-- 📫 How to reach me: **kamal0sharma02@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/kamal-sharma-2a654a191/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="center">Skills:</h3>
-<p align="center">
-  <!-- Add your skills here -->
 </p>
 
 <p align="center">
