@@ -1,5 +1,5 @@
   <h1 align="center" style="color: white;">Greetings 👋, I'm Kamal Sharma</h1>
-  <h3 align="center" style="color: white;">Enthusiastic Frontend Developer | Aspiring Data Engineer | Based in India</h3>
+  <h3 align="center" style="color: white;">Transforming Ideas into Responsive Websites | Architecting Scalable Data Infrastructures | Based in India</h3>
 
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=kamu08&label=Profile%20views&color=0e75b6&style=flat" alt="kamu08" />
