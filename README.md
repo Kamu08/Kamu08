@@ -37,3 +37,33 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamu08&show_icons=true&locale=en&layout=compact" alt="kamu08" />
 </p>
+<h1 align="center">Hi there 👋, I'm Kamal Sharma</h1>
+<h3 align="center">A passionate frontend developer and aspiring data engineer from India</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kamu08&label=Profile%20views&color=0e75b6&style=flat" alt="kamu08" /> </p>
+
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="300">
+
+- 🌱 I’m currently learning **Reactjs, Nextjs, and Data Engineering**
+
+- 👨‍💻 Explore my projects at [https://kamal-sharma.netlify.app/](https://kamal-sharma.netlify.app/)
+
+- 💬 Ask me about **Frontend Development** and **Data Engineering**
+
+- 📫 How to reach me: **kamal0sharma02@gmail.com**
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamal-sharma-2a654a191/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="center">Skills:</h3>
+<p align="center">
+  <!-- Add your skills here -->
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamu08&show_icons=true&locale=en&layout=compact" alt="kamu08" />
+</p>
