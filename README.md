@@ -20,6 +20,20 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+
+  ![html](https://github.com/Kamu08/Kamu08/assets/87929852/b0e8b7aa-6411-4802-bef4-520a7fb860f4)
+![css](https://github.com/Kamu08/Kamu08/assets/87929852/9c15d07f-42de-432f-b052-b774f0e6fca2)
+![javascript](https://github.com/Kamu08/Kamu08/assets/87929852/6e47088a-79b8-48c9-a9e1-248dc![react](https://github.com/Kamu08/Kamu08/assets/87929852/c9bbc723-ecf7-4a89-8e9e-c00656a76787)
+2bdac7c)
+![git](https://github.com/Kamu08/Kamu08/assets/87929852/e709c92b-760e-4659-8e72-e877d253b966)
+![github](https://github.com/Kamu08/Kamu08/assets/87929852/8cebf4ae-40d5-4714-b6b5-ff2ec8640cd9)
+![mongodb](https://github.com/Kamu08/Kamu08/assets/87929852/5a8182e5-33f6-4f50-88eb-f8bd1132913c)
+![tailwind](https://github.com/Kamu08/Kamu08/assets/87929852/0be9fc73-2773-4e47-bbd6-dabe165a27cd)
+![sass](https://github.com/Kamu08/Kamu08/assets/87929852/5d02abae-2f1a-47a5-a01b-ba6cb3a08b94)
+![visual-studio-code](https://github.com/Kamu08/Kamu08/assets/87929852/23ded90d-61b5-4258-ac09-eb8d45165cae)
+![sql](https://github.com/Kamu08/Kamu08/assets/87929852/3f503ea8-3623-408a-b553-522abffd2e89)
+![python](https://github.com/Kamu08/Kamu08/assets/87929852/8c5d6cf5-a70e-4fc6-8363-917eb66186c8)
+
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
