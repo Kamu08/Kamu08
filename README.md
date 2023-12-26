@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kamu08&label=Profile%20views&color=0e75b6&style=flat" alt="kamu08" />
 </p>
 
-<img align="top-right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="300">
+<img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="300">
 
 - 🌱 Currently immersing in **Reactjs, Nextjs, and the realm of Data Engineering**
 
@@ -35,4 +35,16 @@
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/5d02abae-2f1a-47a5-a01b-ba6cb3a08b94" width="50" height="50" alt="Sass" title="Sass" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/23ded90d-61b5-4258-ac09-eb8d45165cae" width="50" height="50" alt="Visual Studio Code" title="Visual Studio Code" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/3f503ea8-3623-408a-b553-522abffd2e89" width="50" height="50" alt="SQL" title="SQL" />
-  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/8c5d6cf5-a70e-4fc6-8363-917eb66186c8" width="50" height="
+  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/8c5d6cf5-a70e-4fc6-8363-917eb66186c8" width="50" height="50" alt="Python" title="Python" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamu08" alt="kamu08" />
+</p>
+
+<h3 align="center">Fun Fact:</h3>
+<p align="center"> 
+  Did you know? Coding is the only activity where coffee is not just a beverage; it's a syntax fuel! ☕🚀
+</p>
