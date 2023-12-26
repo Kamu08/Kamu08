@@ -40,9 +40,7 @@
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamu08" alt="kamu08" />
-</p>
+
 
 <h3 align="left">Fun Fact:</h3>
 <p align="left"> 
