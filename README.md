@@ -42,3 +42,82 @@
     Did you know? Coding is the only activity where coffee is not just a beverage; it's a syntax fuel! ☕🚀
   </p>
 </div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background: url('https://th.bing.com/th/id/OIP.LR7k12ZQEXYWN_-U8Z7eawHaEK?rs=1&pid=ImgDetMain') no-repeat center center fixed; 
+      background-size: cover;
+      padding: 100px;
+      color: white;
+    }
+
+    h1, h3 {
+      text-align: center;
+    }
+
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+
+    p, ul {
+      text-align: center;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    ul img {
+      margin: 10px;
+    }
+  </style>
+  <title>Kamal Sharma's README</title>
+</head>
+<body>
+  <h1>Greetings 👋, I'm Kamal Sharma</h1>
+  <h3>Enthusiastic Frontend Developer | Aspiring Data Engineer | Based in India</h3>
+
+  <p> 
+    <img src="https://komarev.com/ghpvc/?username=kamu08&label=Profile%20views&color=0e75b6&style=flat" alt="kamu08" />
+  </p>
+
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="300">
+
+  <ul>
+    <li><strong>🌱 Learning:</strong> Reactjs, Nextjs, Data Engineering</li>
+    <li><strong>👨‍💻 Explore:</strong> [https://kamal-sharma.netlify.app/](https://kamal-sharma.netlify.app/)</li>
+    <li><strong>💬 Ask me about:</strong> Frontend Development, Data Engineering</li>
+    <li><strong>📫 How to reach me:</strong> kamal0sharma02@gmail.com</li>
+  </ul>
+
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/kamal-sharma-2a654a191/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+  </p>
+
+  <h3>Tech Arsenal:</h3>
+  <ul>
+    <!-- Replace the following placeholders with actual image URLs -->
+    <li><img src="image_url1" width="50" height="50" alt="Tech 1" title="Tech 1" /></li>
+    <li><img src="image_url2" width="50" height="50" alt="Tech 2" title="Tech 2" /></li>
+    <!-- Add more tech images as needed -->
+  </ul>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kamu08" alt="kamu08" />
+  </p>
+
+  <h3>Fun Fact:</h3>
+  <p>Did you know? Coding is the only activity where coffee is not just a beverage; it's a syntax fuel! ☕🚀</p>
+</body>
+</html>
+
