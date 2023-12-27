@@ -12,6 +12,11 @@
   - 💬 Inquire me about **Frontend Development** and **Data Engineering**
   - 📫 How to transmit information: **kamal0sharma02@gmail.com**
 
+<h3 align="center" style="color: white;">Fun Fact:</h3>
+  <p align="center" style="color: white;"> 
+    Did you know? Coding is the only activity where coffee is not just a beverage; it's a syntax fuel! ☕🚀
+  </p>
+  
   <h3 align="center" style="color: white;">Connect with me:</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/kamal-sharma-2a654a191/" target="_blank">
@@ -36,8 +41,5 @@
   </p>
 
   <br>
-  <h3 align="center" style="color: white;">Fun Fact:</h3>
-  <p align="center" style="color: white;"> 
-    Did you know? Coding is the only activity where coffee is not just a beverage; it's a syntax fuel! ☕🚀
-  </p>
+  
 </div>
