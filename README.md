@@ -34,7 +34,7 @@
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/e709c92b-760e-4659-8e72-e877d253b966" width="50" height="50" alt="Git" title="Git" />
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/8cebf4ae-40d5-4714-b6b5-ff2ec8640cd9" width="50" height="50" alt="GitHub" title="GitHub" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/0be9fc73-2773-4e47-bbd6-dabe165a27cd" width="50" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/5d02abae-2f1a-47a5-a01b-ba6cb3a08b94" width="50" height="50" alt="Sass" title="Sass" />
