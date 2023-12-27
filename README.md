@@ -21,8 +21,11 @@
   <p align="left">
 <a href="https://www.linkedin.com/in/kamal-sharma-2a654a191/" target="_blank">
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/0c045a00-874d-4a13-925e-9f711880564c" alt="LinkedIn" height="55" width="55" />
+  
+  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/fed37b40-434a-4a16-9fcd-11cbe499320d" alt="Twitter" height="55" width="55" />
 </a>
   </p>
+
   <h3 align="center" style="color: white;">Tech Stack:</h3>
 <p align="left">
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/b0e8b7aa-6411-4802-bef4-520a7fb860f4" width="50" height="50" alt="HTML" title="HTML5" />
