@@ -25,8 +25,8 @@
 </a>
   </p>
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/0c045a00-874d-4a13-925e-9f711880564c">
-[![LinkedIn](https://github.com/Kamu08/Kamu08/assets/87929852/cea30bbc-c261-4420-ac8a-51a9f63b8195)](https://www.linkedin.com/in/kamal-sharma-2a654a191/)
-![Linkedin (1)](https://github.com/Kamu08/Kamu08/assets/87929852/0c045a00-874d-4a13-925e-9f711880564c)
+  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/cea30bbc-c261-4420-ac8a-51a9f63b8195">
+
 
 
 
