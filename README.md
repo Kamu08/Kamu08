@@ -23,6 +23,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
   </p>
+![Uploading Linkedin.gif…]()
 
   <h3 align="center" style="color: white;">Tech Stack:</h3>
 <p align="left">
