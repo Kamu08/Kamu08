@@ -20,11 +20,10 @@
   <h3 align="left" style="color: white;">Connect with me:</h3>
   <p align="left">
 <a href="https://www.linkedin.com/in/kamal-sharma-2a654a191/" target="_blank">
-  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/4b05cb04-6a35-49a6-b730-e8f3d2b57ec8" alt="LinkedIn" height="30" width="40" />
+  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/4b05cb04-6a35-49a6-b730-e8f3d2b57ec8" alt="LinkedIn" height="40" width="40" />
 </a>
-
-    </a>
   </p>
+[![LinkedIn](https://github.com/Kamu08/Kamu08/assets/87929852/cea30bbc-c261-4420-ac8a-51a9f63b8195)](https://www.linkedin.com/in/kamal-sharma-2a654a191/)
 
 
 
