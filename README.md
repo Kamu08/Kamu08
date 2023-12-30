@@ -8,7 +8,7 @@
   <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="300">
 
   - 🌱 Currently immersing in **Reactjs and the realm of Data Engineering**
-  - 👨‍💻 Exploring my endeavors at [Techfolio](https://kamal-sharma.netlify.app/)
+  - 👨‍💻 Exploring my endeavors at [Techfolio](https://659055514abcd68ce2ff70c9--kmlportfolio.netlify.app/)
   - 💬 Inquire me about **Frontend Development** and **Data Engineering**
   - 📫 How to transmit information: **kamal0sharma02@gmail.com**
 
