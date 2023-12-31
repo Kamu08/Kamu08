@@ -33,7 +33,7 @@
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/9c15d07f-42de-432f-b052-b774f0e6fca2" width="50" height="50" alt="CSS" title="CSS3" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/6e47088a-79b8-48c9-a9e1-248dc2bdac7c" width="50" height="50" alt="JavaScript" title="JavaScript" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/c9bbc723-ecf7-4a89-8e9e-c00656a76787" width="50" height="50" alt="React" title="React" />
-  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/dcb0ad65-59cc-4bb6-9d39-2ef595fa0de0" width="50" height="50" alt="MongoDB" title="MongoDB" />
+  <img src="https://github.com/Kamu08/Kamu08/assets/87929852/89701c16-5bfd-42b9-bbfb-6c7bfa1de364" width="50" height="50" alt="MySQL" title="MySQL" />
   <img src="https://github.com/Kamu08/Kamu08/assets/87929852/e709c92b-760e-4659-8e72-e877d253b966" width="50" height="50" alt="Git" title="Git" />
 </p>
 
