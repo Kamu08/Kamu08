@@ -1,5 +1,5 @@
   <h1 align="center" style="color: white;">Greetings 👋, I'm Kamal Sharma</h1>
-  <h3 align="center" style="color: white;">Transforming Ideas into Responsive Websites | Architecting Scalable Data Infrastructures </h3>
+  <h3 align="center" style="color: white;">Transforming Ideas into Responsive Websites  </h3>
 
   <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=kamu08&label=Profile%20views&color=0e75b6&style=flat" alt="kamu08" />
@@ -7,9 +7,9 @@
 
   <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="300">
 
-  - 🌱 Currently immersing in **Reactjs and the realm of Data Engineering**
+  - 🌱 Currently immersing in **Reactjs**
   - 👨‍💻 Exploring my endeavors at [Techfolio](https://kml-sharma-portfolio.netlify.app/)
-  - 💬 Inquire me about **Frontend Development** and **Data Engineering**
+  - 💬 Inquire me about **Frontend Development**
   - 📫 How to transmit information: **kamal0sharma02@gmail.com**
 
 <h3 align="center" style="color: white;">Fun Fact:</h3>
