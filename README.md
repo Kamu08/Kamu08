@@ -8,7 +8,7 @@
   <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Freak" width="400" height="300">
 
   - 🌱 Currently immersing in **Reactjs** and **Nextjs**
-  - 👨‍💻 Exploring my endeavors at [Techfolio](https://kml-sharma-portfolio.netlify.app/)
+  - 👨‍💻 Exploring my endeavors at [Techfolio](https://portfoliokml.netlify.app/)
   - 💬 Inquire me about **Frontend Development**
   - 📫 How to transmit information: **kamal0sharma02@gmail.com**
 
